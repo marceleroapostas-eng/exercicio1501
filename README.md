@@ -1,8 +1,8 @@
-\# Exercício 1501 - Número por Extenso
+# Exercício 1501 - Número por Extenso
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,23 +10,23 @@ Este programa solicita um número de 0 a 9 ao usuário. Em seguida, verifica o n
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
 
 
-\- NetBeans
+- NetBeans
 
 
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -34,7 +34,7 @@ A entrada contém um número inteiro de 0 a 9, informado pelo usuário.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -42,7 +42,7 @@ O programa exibe o número informado por extenso. Caso o número não esteja ent
 
 
 
-\## Autor
+## Autor
 
 
 
